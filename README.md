@@ -1,7 +1,8 @@
 The project downloads:
 - the EU KLEMS database's output and capital input .xlsx files from www.euklems.net;
 - Maddison Project 2018 database from https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018;
-- the Penn World Table version 9.1 database from https://www.rug.nl/ggdc/productivity/pwt/;
+- the Penn World Table version 9.1 database from https://www.rug.nl/ggdc/productivity/pwt/
+
 and converts them into a pandas dataframe.
 
 # EUklems-data
