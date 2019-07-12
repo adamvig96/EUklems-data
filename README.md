@@ -1,3 +1,9 @@
+The project downloads:
+- the EU KLEMS database's output and capital input .xlsx files from www.euklems.net;
+- Maddison Project 2018 database from https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018;
+- the Penn World Table version 9.1 database from https://www.rug.nl/ggdc/productivity/pwt/
+and converts them into a pandas dataframe.
+
 # EUklems-data
 
 Database description: The EU KLEMS project aimed at creating a database on measures of economic growth, productivity, employment creation, capital formation and technological change at the industry level for all European Union member states from 1970 onwards. The database will provide an important input to policy evaluation, in particular for the assessment of the goals concerning competitiveness and economic growth potential as established by the Lisbon and Barcelona summit goals.
@@ -12,9 +18,3 @@ Database description: PWT version 9.1 is a database with information on relative
 # Maddison Project Database 2018
 
 Database description: The Maddison Project Database provides information on comparative economic growth and income levels over the very long run. The 2018 version of this database covers 169 countries and the period up to 2016.
-
-The project downloads:
-- the EU KLEMS database's output and capital input .xlsx files from www.euklems.net;
-- Maddison Project 2018 database from https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018;
-- the Penn World Table version 9.1 database from https://www.rug.nl/ggdc/productivity/pwt/
-and converts them into a pandas dataframe.
