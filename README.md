@@ -1,3 +1,6 @@
+This is my first programming project.
+It was a final project for the introductiory Programing and Algorithm Theory course at Rajk College for Advanced Studies, 2019 Spring.
+
 The project downloads:
 - the EU KLEMS database's output and capital input .xlsx files from www.euklems.net;
 - Maddison Project 2018 database from https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018;
